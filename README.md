@@ -36,7 +36,7 @@
 ✔ I’m currently working on **multi-cloud Kubernetes deployments** with auto-healing 🌍  
 ✔ Skilled in **Terraform, Ansible, Jenkins, Docker, Kubernetes**  
 ✔ I’m looking to collaborate on **DevOps & Cloud open-source projects**  
-✔ Fun fact: *I automate everything... even my coffee ☕*  
+✔ Fun fact: *I automate everything... even my coffee machine ☕*  
 
 ---
 
