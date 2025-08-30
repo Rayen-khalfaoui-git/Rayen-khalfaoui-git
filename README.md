@@ -50,7 +50,6 @@
 <p align="left">
   <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
-  <code><img height="50" src="https://www.vectorlogo.zone/logos/vmware/vmware-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg"></code>
   <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
@@ -66,14 +65,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RayenKhalfaoui&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Rayen" />
-<img src="https://github-readme-stats.vercel.app/api?username=RayenKhalfaoui&show_icons=true&theme=tokyonight" alt="Rayen" width="410" />
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 
