@@ -3,9 +3,6 @@
 </p>
 <br>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=RayenKhalfaoui&color=brightgreen" alt="watching_count" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20DevOps-brightgreen" />
