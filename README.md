@@ -12,7 +12,7 @@
 <hr>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rayen Khalfaoui </h1>
-<h3 align="center">Cloud & DevOps Engineer | Kubernetes | IaC Enthusiast</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS Docker IAC | Automation Enthusiast</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/rayen-khalfaoui" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" width="30" /></a>
