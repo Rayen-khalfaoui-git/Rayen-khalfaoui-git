@@ -60,14 +60,4 @@
 
 ---
 
-
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RayenKhalfaoui&theme=juicyfresh&no-bg=true" />
-</p>
-
----
-
 ✨ *"Automating today to scale tomorrow."*
